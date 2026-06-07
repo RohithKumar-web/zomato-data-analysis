@@ -11,13 +11,13 @@ This project focuses on analyzing Zomato restaurant data to uncover valuable bus
 - Provide data-driven recommendations for business growth.
 
 ## Dataset Used 
-<a herf = "https://github.com/RohithKumar-web/zomato-data-analysis/blob/main/zomato.csv">D
+<a herf = "https://github.com/RohithKumar-web/zomato-data-analysis/blob/main/zomato.csv">
 
 ## 📷 Power BI Dashboard
-<a herf = "https://github.com/RohithKumar-web/zomato-data-analysis/blob/main/Screenshot%202026-06-07%20235222.png">D
+<a herf = "https://github.com/RohithKumar-web/zomato-data-analysis/blob/main/Screenshot%202026-06-07%20235222.png">
 
 ## 📷 MS Excel Dashboard
-<a herf = "https://github.com/RohithKumar-web/zomato-data-analysis/blob/main/Screenshot%202026-06-07%20233817.png">D
+<a herf = "https://github.com/RohithKumar-web/zomato-data-analysis/blob/main/Screenshot%202026-06-07%20233817.png">
 
 
 ## 🛠️ Tools & Technologies
@@ -122,5 +122,5 @@ Created interactive Power BI dashboards to visualize:
 - Encourage online delivery services to improve customer reach.
 - Monitor low-rated restaurants to identify improvement opportunities.
 ### Connect With Me
-- LinkedIn: <a herf = "www.linkedin.com/in/rohith-kumar-venkola-225b69283">D
-- GitHub: <a herf = "https://github.com/RohithKumar-web">D
+- LinkedIn: <a herf = "www.linkedin.com/in/rohith-kumar-venkola-225b69283">
+- GitHub: <a herf = "https://github.com/RohithKumar-web">
